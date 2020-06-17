@@ -17,7 +17,7 @@ spec:
             labels:
                 app: jitendra-microservice
                 run: jitendra-microservice
-                source: demo-1
+                source: demo
         spec:
             containers:
                 -   image: 465848653329.dkr.ecr.us-west-2.amazonaws.com/jitendra-microservice
