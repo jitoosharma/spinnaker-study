@@ -8,7 +8,7 @@ metadata:
     name: jitendra-microservice
     namespace: microservices
 spec:
-    replicas: 4
+    replicas: 3
     selector:
         matchLabels:
             run: jitendra-microservice
